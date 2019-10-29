@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">MandV</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_upload">Upload</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_upload_video">Upload Video</string>
+    <string name="action_upload_music">Upload Music</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>

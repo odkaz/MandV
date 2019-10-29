@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "811290088083",
+    "firebase_url": "https://mandv-41878.firebaseio.com",
+    "project_id": "mandv-41878",
+    "storage_bucket": "mandv-41878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811290088083:android:d452ba7908ca040a95f366",
+        "android_client_info": {
+          "package_name": "com.example.mandv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811290088083-vju45dada3klm0901ic4vhbu5n4qaa14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxWTuZhWCHV9VNISitnDuKHDXehGr7ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811290088083-vju45dada3klm0901ic4vhbu5n4qaa14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
